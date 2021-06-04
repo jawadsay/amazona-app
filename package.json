@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "redux-devtools-extension": "^2.13.9"
   },
   "devDependencies": {
     "eslint": "^7.26.0",
